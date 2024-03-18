@@ -19,6 +19,7 @@ const TextContentGeneration = () => {
       alert('Error copying the text')
     }
   }
+  
 
   const handleSubmit = async (e) => {
     try {
