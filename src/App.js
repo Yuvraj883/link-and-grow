@@ -1,6 +1,5 @@
 // import { Button } from '@mui/material'
 import Navbar from './Components/Navbar'
-import TextContentGeneration from './Pages/TextContentGeneration'
 import PostGeneration from './Pages/PostGeneration'
 import LeftBar from './Components/LeftBar'
 
@@ -13,7 +12,7 @@ function App() {
         <PostGeneration />
       </div>
 
-      
+
     </>
   )
 }
